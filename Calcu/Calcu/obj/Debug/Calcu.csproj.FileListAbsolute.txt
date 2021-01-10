@@ -1,0 +1,18 @@
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe.config
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.pdb
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.csprojResolveAssemblyReference.cache
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Properties.Resources.resources
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.csproj.GenerateResource.Cache
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.exe
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.pdb
+c:\users\maher23320\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Calculator.resources
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe.config
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.pdb
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.csprojResolveAssemblyReference.cache
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Calculator.resources
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Properties.Resources.resources
+C:\Users\Maher Abdelhay\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.csproj.GenerateResource.Cache
